@@ -1,5 +1,5 @@
-# Lab 2 - Starter
+# CSE 110 Lab 3
 
-URL to my published site: 
-[My Lab 2 Page](https://thtt-1kidd.github.io/cse110-lab2-hector-g/)
+URL to  published site: 
+[My Lab 3 Page](https://thtt-1kidd.github.io/sp26-cse110-lab3/)
 
